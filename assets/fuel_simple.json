@@ -1,0 +1,727 @@
+[
+  {
+    "name": "Unknown",
+    "latitude": 13.039191,
+    "longitude": 80.2573429
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9898779,
+    "longitude": 80.2211746
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0368733,
+    "longitude": 80.2555597
+  },
+  {
+    "name": "IOC",
+    "latitude": 13.037841,
+    "longitude": 80.2562967
+  },
+  {
+    "name": "BP",
+    "latitude": 13.0378885,
+    "longitude": 80.2569506
+  },
+  {
+    "name": "IOC",
+    "latitude": 13.0210408,
+    "longitude": 80.2252242
+  },
+  {
+    "name": "IOCL",
+    "latitude": 12.9997167,
+    "longitude": 80.2559553
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9943244,
+    "longitude": 80.1870765
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0665295,
+    "longitude": 80.2103015
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0725037,
+    "longitude": 80.2210264
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0391669,
+    "longitude": 80.2573351
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0402403,
+    "longitude": 80.2468562
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0493343,
+    "longitude": 80.25305
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0851617,
+    "longitude": 80.2835544
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0862218,
+    "longitude": 80.2812471
+  },
+  {
+    "name": "HP",
+    "latitude": 12.9796614,
+    "longitude": 80.218483
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0311284,
+    "longitude": 80.2394414
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0337218,
+    "longitude": 80.2382988
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0459529,
+    "longitude": 80.2562406
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 13.0260196,
+    "longitude": 80.2661174
+  },
+  {
+    "name": "Shanthi Petrol Station",
+    "latitude": 12.9935494,
+    "longitude": 80.1850866
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0534169,
+    "longitude": 80.252032
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0540764,
+    "longitude": 80.2530457
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0427775,
+    "longitude": 80.2677547
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0184727,
+    "longitude": 80.2614032
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0421221,
+    "longitude": 80.2684202
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9097046,
+    "longitude": 80.2503011
+  },
+  {
+    "name": "IOC",
+    "latitude": 13.0248046,
+    "longitude": 80.2286028
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0674553,
+    "longitude": 80.2524458
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0320242,
+    "longitude": 80.2194486
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1027332,
+    "longitude": 80.208197
+  },
+  {
+    "name": "Essar fuel pump",
+    "latitude": 12.9793198,
+    "longitude": 80.2044069
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9756664,
+    "longitude": 80.1929085
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9783713,
+    "longitude": 80.1941378
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0839077,
+    "longitude": 80.2442941
+  },
+  {
+    "name": "Shell",
+    "latitude": 13.0247047,
+    "longitude": 80.2065279
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0200917,
+    "longitude": 80.1853891
+  },
+  {
+    "name": "BP",
+    "latitude": 13.0116259,
+    "longitude": 80.2185178
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0120221,
+    "longitude": 80.2197653
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0696245,
+    "longitude": 80.1996608
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0158863,
+    "longitude": 80.2048651
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0347707,
+    "longitude": 80.2109563
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0231114,
+    "longitude": 80.2063585
+  },
+  {
+    "name": "BP",
+    "latitude": 13.0127799,
+    "longitude": 80.2222772
+  },
+  {
+    "name": "BP",
+    "latitude": 13.0112743,
+    "longitude": 80.2229232
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0402991,
+    "longitude": 80.1304112
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0386047,
+    "longitude": 80.1330017
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0265542,
+    "longitude": 80.2324615
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.044528,
+    "longitude": 80.2634018
+  },
+  {
+    "name": "HP Petrol Bunk",
+    "latitude": 13.0277462,
+    "longitude": 80.2512876
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0949946,
+    "longitude": 80.2927844
+  },
+  {
+    "name": "PetrolBUnk",
+    "latitude": 13.0109649,
+    "longitude": 80.2589786
+  },
+  {
+    "name": "Total gas station",
+    "latitude": 12.9642639,
+    "longitude": 80.2115008
+  },
+  {
+    "name": "Shell",
+    "latitude": 13.0484551,
+    "longitude": 80.2066281
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.109739,
+    "longitude": 80.2662537
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0867504,
+    "longitude": 80.2586838
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1085927,
+    "longitude": 80.2435965
+  },
+  {
+    "name": "IBP Petrol Station",
+    "latitude": 12.9655809,
+    "longitude": 80.2003887
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9640355,
+    "longitude": 80.214439
+  },
+  {
+    "name": "Shell",
+    "latitude": 12.9641205,
+    "longitude": 80.187622
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9830485,
+    "longitude": 80.1904569
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0073497,
+    "longitude": 80.2002828
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9594013,
+    "longitude": 80.2139555
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9771589,
+    "longitude": 80.2511612
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9186483,
+    "longitude": 80.1958665
+  },
+  {
+    "name": "Shell Petrol Station",
+    "latitude": 12.9470276,
+    "longitude": 80.2089755
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9686473,
+    "longitude": 80.2571319
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9672226,
+    "longitude": 80.2573585
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.967692,
+    "longitude": 80.2574844
+  },
+  {
+    "name": "BP Petrol Pump",
+    "latitude": 13.0466076,
+    "longitude": 80.1910336
+  },
+  {
+    "name": "Chinthamani Cooperative Petrol Bunk",
+    "latitude": 13.0410061,
+    "longitude": 80.2373742
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9439409,
+    "longitude": 80.1833049
+  },
+  {
+    "name": "BP",
+    "latitude": 13.0421141,
+    "longitude": 80.259281
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.8761596,
+    "longitude": 80.2273012
+  },
+  {
+    "name": "HP",
+    "latitude": 12.9949579,
+    "longitude": 80.1879445
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9225671,
+    "longitude": 80.197052
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9674951,
+    "longitude": 80.2485479
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0452801,
+    "longitude": 80.2182725
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0401531,
+    "longitude": 80.2400751
+  },
+  {
+    "name": "IndianOil",
+    "latitude": 13.040274,
+    "longitude": 80.2423014
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0291289,
+    "longitude": 80.2538708
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0338283,
+    "longitude": 80.2448209
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0451808,
+    "longitude": 80.2400027
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0453689,
+    "longitude": 80.2404265
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0536069,
+    "longitude": 80.2263575
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0539215,
+    "longitude": 80.234525
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9083732,
+    "longitude": 80.2287564
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9247788,
+    "longitude": 80.2303371
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9823866,
+    "longitude": 80.2180571
+  },
+  {
+    "name": "Bharat Petroleum Bunk",
+    "latitude": 13.072324,
+    "longitude": 80.2602653
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0649955,
+    "longitude": 80.2432915
+  },
+  {
+    "name": "Indian Oil Propel",
+    "latitude": 13.0263102,
+    "longitude": 80.2316753
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0378648,
+    "longitude": 80.1918972
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0378858,
+    "longitude": 80.1921778
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.082421,
+    "longitude": 80.2091831
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0920509,
+    "longitude": 80.2512648
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1237034,
+    "longitude": 80.2215577
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0154656,
+    "longitude": 80.1840501
+  },
+  {
+    "name": "HP",
+    "latitude": 13.07198,
+    "longitude": 80.2598553
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9695901,
+    "longitude": 80.1499164
+  },
+  {
+    "name": "HP",
+    "latitude": 12.9684621,
+    "longitude": 80.1499328
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0722894,
+    "longitude": 80.2517008
+  },
+  {
+    "name": "Bharat Petroleum Petrol Station",
+    "latitude": 13.0504559,
+    "longitude": 80.2564197
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0584278,
+    "longitude": 80.2425658
+  },
+  {
+    "name": "IndianOil",
+    "latitude": 13.0558552,
+    "longitude": 80.2487664
+  },
+  {
+    "name": "Bharat Petroleum Petrol Pump",
+    "latitude": 13.0202778,
+    "longitude": 80.1300076
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0472469,
+    "longitude": 80.1995671
+  },
+  {
+    "name": "Indian Oil Petrol Bunk",
+    "latitude": 13.0370179,
+    "longitude": 80.201671
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.8815247,
+    "longitude": 80.2451006
+  },
+  {
+    "name": "Supergas",
+    "latitude": 12.9006734,
+    "longitude": 80.2277083
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.1244214,
+    "longitude": 80.2778562
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.103412,
+    "longitude": 80.2527281
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.1236244,
+    "longitude": 80.2016478
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0689227,
+    "longitude": 80.2624415
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0759096,
+    "longitude": 80.2640838
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.010343,
+    "longitude": 80.2588836
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0543034,
+    "longitude": 80.2496574
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.069942,
+    "longitude": 80.2725116
+  },
+  {
+    "name": "Kousalya Fuels Velachery",
+    "latitude": 12.9971505,
+    "longitude": 80.2163258
+  },
+  {
+    "name": "HP",
+    "latitude": 13.1036664,
+    "longitude": 80.2734324
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0646905,
+    "longitude": 80.1977719
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0687954,
+    "longitude": 80.2558494
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 12.9424731,
+    "longitude": 80.2530279
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9469904,
+    "longitude": 80.2538044
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0790936,
+    "longitude": 80.2499082
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0566431,
+    "longitude": 80.2644059
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.9746968,
+    "longitude": 80.1920646
+  },
+  {
+    "name": "Shell",
+    "latitude": 12.9085119,
+    "longitude": 80.2501864
+  },
+  {
+    "name": "HP",
+    "latitude": 13.1276031,
+    "longitude": 80.2175373
+  },
+  {
+    "name": "HP",
+    "latitude": 13.0540708,
+    "longitude": 80.2344005
+  },
+  {
+    "name": "Total",
+    "latitude": 13.0773865,
+    "longitude": 80.2107125
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0773833,
+    "longitude": 80.208043
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0936528,
+    "longitude": 80.2412948
+  },
+  {
+    "name": "Shell",
+    "latitude": 12.867248,
+    "longitude": 80.226778
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.8873817,
+    "longitude": 80.1840488
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0210393,
+    "longitude": 80.2251942
+  },
+  {
+    "name": "HP",
+    "latitude": 12.9270116,
+    "longitude": 80.2515525
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 12.8889527,
+    "longitude": 80.1987376
+  },
+  {
+    "name": "Go Gas",
+    "latitude": 13.0458131,
+    "longitude": 80.2398536
+  },
+  {
+    "name": "Nayara",
+    "latitude": 12.917494,
+    "longitude": 80.1893385
+  },
+  {
+    "name": "Bharat Petroleum",
+    "latitude": 13.0805405,
+    "longitude": 80.2665835
+  },
+  {
+    "name": "Hindustan Petroleum",
+    "latitude": 12.8670551,
+    "longitude": 80.2429093
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.1250522,
+    "longitude": 80.2045223
+  },
+  {
+    "name": "K. R. Fuels",
+    "latitude": 12.9699504,
+    "longitude": 80.218018
+  },
+  {
+    "name": "Indian Oil",
+    "latitude": 13.0242856,
+    "longitude": 80.2643586
+  }
+]

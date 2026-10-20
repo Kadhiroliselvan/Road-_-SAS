@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Mylapore E1 PS",
+    "latitude": 13.0359873,
+    "longitude": 80.2701421
+  },
+  {
+    "name": "Periamet PS",
+    "latitude": 13.0831121,
+    "longitude": 80.2709138
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0590491,
+    "longitude": 80.2706569
+  },
+  {
+    "name": "R1 Police Station",
+    "latitude": 13.0347642,
+    "longitude": 80.2294897
+  },
+  {
+    "name": "Esplanade PS",
+    "latitude": 13.0864715,
+    "longitude": 80.2853702
+  },
+  {
+    "name": "F4 Greams Road PS",
+    "latitude": 13.0598386,
+    "longitude": 80.2547972
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1231943,
+    "longitude": 80.2873206
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1000303,
+    "longitude": 80.2601445
+  },
+  {
+    "name": "Peravallur Police Station",
+    "latitude": 13.1113985,
+    "longitude": 80.2263784
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0934393,
+    "longitude": 80.2434556
+  },
+  {
+    "name": "D1 Triplicane Police Station",
+    "latitude": 13.0672549,
+    "longitude": 80.2736489
+  },
+  {
+    "name": "K4 Police Station",
+    "latitude": 13.0925447,
+    "longitude": 80.21797
+  },
+  {
+    "name": "R3 Ashok Nagar Police Station",
+    "latitude": 13.0440809,
+    "longitude": 80.2173045
+  },
+  {
+    "name": "Abhiramapuram",
+    "latitude": 13.0332562,
+    "longitude": 80.2559671
+  },
+  {
+    "name": "F2 Egmore Police Station",
+    "latitude": 13.0750725,
+    "longitude": 80.257014
+  },
+  {
+    "name": "Mambalam Police Station",
+    "latitude": 13.0349573,
+    "longitude": 80.22946
+  },
+  {
+    "name": "Royapettah PS",
+    "latitude": 13.0520106,
+    "longitude": 80.2637348
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0596173,
+    "longitude": 80.2427681
+  },
+  {
+    "name": "S-8 Adambakkam Police Station",
+    "latitude": 12.9893957,
+    "longitude": 80.2019683
+  },
+  {
+    "name": "Teynampet E3 PS",
+    "latitude": 13.048651,
+    "longitude": 80.2494881
+  },
+  {
+    "name": "Adyar J2",
+    "latitude": 12.997814,
+    "longitude": 80.2557176
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9814685,
+    "longitude": 80.192063
+  },
+  {
+    "name": "Central Station PS",
+    "latitude": 13.0818276,
+    "longitude": 80.2755071
+  },
+  {
+    "name": "Chennai Central RPF",
+    "latitude": 13.0830613,
+    "longitude": 80.2732996
+  },
+  {
+    "name": "B1 Saint Thomas Mount PS",
+    "latitude": 12.9991212,
+    "longitude": 80.200262
+  },
+  {
+    "name": "Police Station - J1 - Saidapet",
+    "latitude": 13.0224076,
+    "longitude": 80.226078
+  },
+  {
+    "name": "E5 Foreshore Estate Police Station",
+    "latitude": 13.0245553,
+    "longitude": 80.2748155
+  },
+  {
+    "name": "Koyambedu Police Station",
+    "latitude": 13.0696407,
+    "longitude": 80.2004587
+  },
+  {
+    "name": "Office, Police Commissioner",
+    "latitude": 13.0100865,
+    "longitude": 80.1990931
+  },
+  {
+    "name": "KK Nagar PS",
+    "latitude": 13.0415108,
+    "longitude": 80.2054415
+  },
+  {
+    "name": "N4 PS",
+    "latitude": 13.1345408,
+    "longitude": 80.2974596
+  },
+  {
+    "name": "Virugambakkam Police Station",
+    "latitude": 13.0491123,
+    "longitude": 80.1992562
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.03694,
+    "longitude": 80.2674177
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9845863,
+    "longitude": 80.2611458
+  },
+  {
+    "name": "Police Booth",
+    "latitude": 13.0737484,
+    "longitude": 80.1923421
+  },
+  {
+    "name": "Police Booth",
+    "latitude": 13.0656907,
+    "longitude": 80.1935705
+  },
+  {
+    "name": "Velachery",
+    "latitude": 12.9850126,
+    "longitude": 80.2208713
+  },
+  {
+    "name": "Police Booth",
+    "latitude": 13.0447322,
+    "longitude": 80.1862162
+  },
+  {
+    "name": "Chintadripet",
+    "latitude": 13.0749088,
+    "longitude": 80.2725042
+  },
+  {
+    "name": "Vadapalani Police station",
+    "latitude": 13.049673,
+    "longitude": 80.2117315
+  },
+  {
+    "name": "Guindy J3 Police station",
+    "latitude": 13.0093531,
+    "longitude": 80.2106918
+  },
+  {
+    "name": "B1 North Beach Police Station",
+    "latitude": 13.0899215,
+    "longitude": 80.2904578
+  },
+  {
+    "name": "C3 Seven Wells Police Station",
+    "latitude": 13.0988879,
+    "longitude": 80.2816945
+  },
+  {
+    "name": "C5 Kothavalchavadi Police Station",
+    "latitude": 13.0940347,
+    "longitude": 80.2854602
+  },
+  {
+    "name": "C1 Flower Bazaar Police Station",
+    "latitude": 13.0884077,
+    "longitude": 80.2817032
+  },
+  {
+    "name": "C1 Flower Bazaar Police Booth",
+    "latitude": 13.0883718,
+    "longitude": 80.2823944
+  },
+  {
+    "name": "H1 Washermanpet Police Station",
+    "latitude": 13.1086614,
+    "longitude": 80.2809199
+  },
+  {
+    "name": "P2 Otteri Police Station",
+    "latitude": 13.1003326,
+    "longitude": 80.2515633
+  },
+  {
+    "name": "E3 Teynampet Police Assistance Booth",
+    "latitude": 13.0313112,
+    "longitude": 80.2398324
+  },
+  {
+    "name": "Office of the Director General of Police Civil Supplies CID Chennai",
+    "latitude": 13.0300516,
+    "longitude": 80.2432354
+  },
+  {
+    "name": "C2 Elephant Gate Police Station",
+    "latitude": 13.0926307,
+    "longitude": 80.2750124
+  },
+  {
+    "name": "Office of the Deputy Commissioner of Police, Pudupet",
+    "latitude": 13.0686386,
+    "longitude": 80.2620582
+  },
+  {
+    "name": "N3 Muthialpet Police Station",
+    "latitude": 13.0998376,
+    "longitude": 80.2870248
+  },
+  {
+    "name": "D5 Marina Police Station",
+    "latitude": 13.0391513,
+    "longitude": 80.2793207
+  },
+  {
+    "name": "B1 North Beach Police Station",
+    "latitude": 13.0966217,
+    "longitude": 80.2915125
+  },
+  {
+    "name": "G7 Chetpet Police Station",
+    "latitude": 13.0725347,
+    "longitude": 80.2520681
+  },
+  {
+    "name": "D2 Anna Salai (Mount Road) Poice Station",
+    "latitude": 13.061062,
+    "longitude": 80.262232
+  },
+  {
+    "name": "Tamil Nadu Police Computer Communication Centre",
+    "latitude": 13.0225066,
+    "longitude": 80.271388
+  },
+  {
+    "name": "Tamil Nadu State Crime Records Bureau",
+    "latitude": 13.022806,
+    "longitude": 80.2716339
+  },
+  {
+    "name": "Elliots Beach Police Outpost",
+    "latitude": 13.0007139,
+    "longitude": 80.2712201
+  },
+  {
+    "name": "C5 Kothavalchavadi Police Station",
+    "latitude": 13.0953439,
+    "longitude": 80.2807237
+  },
+  {
+    "name": "Police booth",
+    "latitude": 12.9651635,
+    "longitude": 80.2060352
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1244932,
+    "longitude": 80.2771688
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0576855,
+    "longitude": 80.2041548
+  },
+  {
+    "name": "Shastri Nagar Police Station",
+    "latitude": 13.0006116,
+    "longitude": 80.2659307
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0687012,
+    "longitude": 80.2046669
+  },
+  {
+    "name": "J9 Police Station",
+    "latitude": 12.947613,
+    "longitude": 80.2416251
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0229741,
+    "longitude": 80.1999165
+  },
+  {
+    "name": "Police Assistance Booth Mugalivakam",
+    "latitude": 13.0207162,
+    "longitude": 80.1663239
+  },
+  {
+    "name": "J6 Police Station",
+    "latitude": 12.9874599,
+    "longitude": 80.2559315
+  },
+  {
+    "name": "S-10 Police Station (Pallikaranai)",
+    "latitude": 12.9173825,
+    "longitude": 80.1950805
+  },
+  {
+    "name": "Chetpet",
+    "latitude": 13.0706907,
+    "longitude": 80.2421194
+  },
+  {
+    "name": "R6 KUMARAN NAGAR POLICE STATION ",
+    "latitude": 13.0283677,
+    "longitude": 80.2163105
+  },
+  {
+    "name": "Otteri Police Station",
+    "latitude": 13.0874523,
+    "longitude": 80.2458786
+  },
+  {
+    "name": "Police Assistance Booth",
+    "latitude": 13.0699263,
+    "longitude": 80.2714181
+  },
+  {
+    "name": "J-10 Semmenchery Police Station",
+    "latitude": 12.9008558,
+    "longitude": 80.2280156
+  },
+  {
+    "name": "Police Booth",
+    "latitude": 13.0149758,
+    "longitude": 80.1816427
+  },
+  {
+    "name": "Railway Police",
+    "latitude": 13.0341367,
+    "longitude": 80.2664405
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9931857,
+    "longitude": 80.2674928
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.1188229,
+    "longitude": 80.2974617
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0757377,
+    "longitude": 80.2775929
+  },
+  {
+    "name": "Unknown",
+    "latitude": 12.9738305,
+    "longitude": 80.186835
+  },
+  {
+    "name": "R10 MGR Nagar Police Station",
+    "latitude": 13.0310886,
+    "longitude": 80.2017034
+  },
+  {
+    "name": "R6 Police Booth",
+    "latitude": 13.026501,
+    "longitude": 80.2116238
+  },
+  {
+    "name": "Velachery Police Station",
+    "latitude": 12.9809435,
+    "longitude": 80.2209233
+  },
+  {
+    "name": "Unknown",
+    "latitude": 13.0414828,
+    "longitude": 80.1331364
+  },
+  {
+    "name": "Control Room",
+    "latitude": 13.0848694,
+    "longitude": 80.2182466
+  },
+  {
+    "name": "Srinagar colony police booth",
+    "latitude": 13.0125062,
+    "longitude": 80.2272456
+  }
+]
